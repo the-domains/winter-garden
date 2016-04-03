@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Winter Garden]]></title>
-        <description><![CDATA[Winter Garden]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Winter Garden BioSciences ]]></title>
+        <description><![CDATA[Winter Garden BioSciences ]]></description>
+        <link>https://thegrid.ai/winter-garden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 01:59:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 14:44:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/winter-garden/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.cbc.ca/1.3187169.1439311304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/borage.jpg">]]></description>
+            <link>https://www.google.ca/search?q=hemp+fields&amp;newwindow=1&amp;biw=1680&amp;bih=949&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiX4Z240PLLAhXIlYMKHScxBVMQ_AUIBigB#imgrc=Uv7I0nWdc5GdIM%3A</link>
+            <guid isPermaLink="false">745a6d1a-ffcc-490c-b22c-65de758a70d7</guid>
+            <pubDate>Sun, 03 Apr 2016 14:44:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>WG’s flagship facility is located in Uruguay where the Company will
@@ -14,7 +21,7 @@ cost location for production. The Facility includes:
 •20 Acre Farm (expanding to 1000 acres)
 •A 5,400 sq. ft. Greenhouse • State-of-the-art lab and in-house patent office. This is the only lab in the country
 that allows for formulation and full spectrum cannabinoid research</p>]]></description>
-            <link>undefinedwgs-flagship-facility-is-located-in-uruguay-where-the-compa/index.html</link>
+            <link>https://thegrid.ai/winter-garden/wgs-flagship-facility-is-located-in-uruguay-where-the-compa/index.html</link>
             <guid isPermaLink="false">61e358eb-f43b-4440-8d36-d5487ef731cd</guid>
             <pubDate>Sun, 03 Apr 2016 01:59:47 GMT</pubDate>
         </item>
