@@ -1,6 +1,6 @@
-name: Winter Garden
+name: Winter Garden BioSciences
 favicon: null
-layout_spectrum: 0.34523
+layout_spectrum: 0.89803
 typography_spectrum: 0.66547
 title: 'Winter Garden BioSciences '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#2e441d'
     - '#7aa114'
     - '#b0dd46'
-  brandStrength: 0.25
+  brandStrength: 0.4375
   lightness: 0.3125
-  saturation: 0.5848509310744703
+  saturation: 0.625
   rhythmicContrast: 0.6898281280882657
 purpose: []
